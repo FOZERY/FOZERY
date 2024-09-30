@@ -1,9 +1,12 @@
 <h2>Hey! I'm Dmitry 👋</h2>
 
-<p>
-I am a software developer who has a deep passion for my work. I enjoy working on new projects. It challenges my brain.  
-I have experience working with <b>Node.js, TypeScript, Vue.js</b> and <b>GoLang</b>.
-</p>
+<h3>About me</h3>
+<ul>
+  <li>💻 I'm Software Developer.</li> 
+  <li>🌎 I Speak Russian and English.</li>
+  <li>😎 I have experience with TypeScript, Node.js, Vue.js and SQL Databases.</li> 
+  <li>🎓 I'm currently learning GoLang, Message Brokers and Microservice Architecture Patterns.</li>
+</ul>
 
 <hr>
 
