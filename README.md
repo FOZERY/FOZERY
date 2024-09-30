@@ -5,7 +5,7 @@
   <li>💻 I'm Software Developer.</li> 
   <li>🌎 I Speak Russian and English.</li>
   <li>😎 I have experience with TypeScript, Node.js, Vue.js and SQL Databases.</li> 
-  <li>🎓 I'm currently learning GoLang, Message Brokers and Microservice Architecture Patterns.</li>
+  <li>🎓 I'm currently learning Go, Message Brokers and Microservice Architecture Patterns.</li>
 </ul>
 
 <hr>
