@@ -1,6 +1,6 @@
-<h2>Hey! I'm Dmitry 👋</h2>
+# Hey! I'm Dmitry 👋
 
-<h3>About me</h3>
+## About me ##
 <ul>
   <li>💻 I'm Software Developer.</li> 
   <li>🌎 I Speak Russian and English.</li>
@@ -8,21 +8,21 @@
   <li>🎓 I'm currently learning Deep Node.js and TypeScript, Message Brokers and Microservice Architecture Patterns.</li>
 </ul>
 
-<hr>
+## Skills
 
-#### Backend
+### Backend
 
 ![Tech stack](https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,express,postgres,supabase,sqlite,mongodb,redis,kafka,rabbitmq,grafana,jest,vitest)
 
-#### Frontend
+### Frontend
 
 ![Tech stack](https://skillicons.dev/icons?i=vue,typescript,javascript,regex,html,css,md,vite)
 
-#### Tools
+### Tools
 
 ![Tech stack](https://skillicons.dev/icons?i=linux,windows,apple,npm,pnpm,docker,postman,git,figma)
 
-<hr>
+---
 
 <div align="center">
   <img alt="profile-details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fozery&theme=nord_dark"/>
