@@ -4,7 +4,7 @@
 <ul>
   <li>💻 I'm Software Developer.</li> 
   <li>🌎 I Speak Russian and English.</li>
-  <li>😎 I have experience with TypeScript, Node.js, Vue.js and SQL Databases.</li> 
+  <li>😎 I have experience with JavaScript Backend and Frontend stack</li> 
   <li>🎓 I'm currently learning Deep Node.js and TypeScript, Message Brokers and Microservice Architecture Patterns.</li>
 </ul>
 
