@@ -24,8 +24,9 @@
 
 ---
 
+### 📈 GitHub Activity Graph:
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FOZERY&theme=high-contrast)
 <div align="center">
-  <img alt="profile-details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fozery&theme=nord_dark"/>
   <img alt="repo-stat" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fozery&theme=nord_dark"/>
   <img alt="repo-stat" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fozery&theme=nord_dark"/>
 </div>
