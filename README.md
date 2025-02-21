@@ -1,6 +1,6 @@
-# Hey! I'm Dmitry 👋
+<h1>Hey! I'm Dmitry 👋</h1>
 
-## About me ##
+<h2>About me</h2>
 <ul>
   <li>💻 I'm Software Developer.</li> 
   <li>🌎 I Speak Russian and English.</li>
@@ -8,25 +8,28 @@
   <li>🎓 I'm currently learning Deep Node.js and TypeScript, Message Brokers and Microservice Architecture Patterns.</li>
 </ul>
 
-## Skills
+<h2>Skills</h2>
 
-### Backend
+<h3>Backend</h3>
 
-![Tech stack](https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,express,postgres,supabase,sqlite,mongodb,redis,kafka,rabbitmq,grafana,jest,vitest)
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,express,postgres,supabase,sqlite,mongodb,redis,kafka,rabbitmq,grafana,jest,vitest" alt="Tech Stack Backend" />
 
-### Frontend
+<h3>Frontend</h3>
 
-![Tech stack](https://skillicons.dev/icons?i=vue,typescript,javascript,regex,html,css,md,vite)
+<img src="https://skillicons.dev/icons?i=vue,typescript,javascript,regex,html,css,md,vite" alt="Tech Stack Frontend" />
 
-### Tools
+<h3>Tools</h3>
 
-![Tech stack](https://skillicons.dev/icons?i=linux,windows,apple,npm,pnpm,docker,postman,git,figma)
+<img src="https://skillicons.dev/icons?i=linux,windows,apple,npm,pnpm,docker,postman,git,figma" alt="Tech Stack Tools" />
 
----
+<hr>
 
-### 📈 GitHub Activity Graph:
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FOZERY&theme=high-contrast)
-<div align="center">
-  <img alt="repo-stat" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fozery&theme=nord_dark"/>
-  <img alt="repo-stat" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fozery&theme=nord_dark"/>
-</div>
+<h3>📈 GitHub Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FOZERY&theme=high-contrast" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FOZERY&theme=dark&text_color=white&bg_color=000000&show_icons=true&border_radius=0" alt="GitHub Stats" />
+</p>
