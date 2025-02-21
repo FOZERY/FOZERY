@@ -12,7 +12,7 @@
 
 <h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,express,postgres,supabase,sqlite,mongodb,redis,kafka,rabbitmq,grafana,jest,vitest" alt="Tech Stack Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nestjs,express,postgres,supabase,sqlite,mongodb,redis,kafka,rabbitmq,grafana,jest,vitest,go&perline=8" alt="Tech Stack Backend" />
 
 <h3>Frontend</h3>
 
