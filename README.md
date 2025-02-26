@@ -20,7 +20,7 @@
 
 <h3>Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=linux,windows,apple,npm,pnpm,docker,postman,git,figma" alt="Tech Stack Tools" />
+<img src="https://skillicons.dev/icons?i=apple,linux,windows,npm,pnpm,docker,postman,git,figma" alt="Tech Stack Tools" />
 
 <hr>
 
