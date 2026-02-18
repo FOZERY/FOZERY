@@ -1,13 +1,5 @@
 <h1>Hey! I'm Dmitry 👋</h1>
 
-<h2>About me</h2>
-<ul>
-  <li>💻 I'm Software Developer.</li> 
-  <li>🌎 I Speak Russian and English.</li>
-  <li>😎 I have experience with JavaScript Backend and Frontend stack.</li> 
-  <li>🎓 I'm currently learning Node.js, TypeScript, Message Brokers and Microservice Architecture Patterns.</li>
-</ul>
-
 <h2>Skills</h2>
 
 <h3>Backend</h3>
